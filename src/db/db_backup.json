@@ -1,0 +1,396 @@
+{
+  "companies": [
+    {
+      "id": "e472b86c-b76a-4f2d-aabc-2e1e2edcba93",
+      "name": "Company A",
+      "industry": "Technology",
+      "location": "New York, USA",
+      "founded": 1998
+    },
+    {
+      "id": "5f148a77-e4b3-4e7d-81bb-6dbf1d8a2711",
+      "name": "Company B",
+      "industry": "Finance",
+      "location": "London, UK",
+      "founded": 2005
+    },
+    {
+      "id": "d2893c08-7e5a-4f0f-b89c-b90d56774c10",
+      "name": "Company C",
+      "industry": "Retail",
+      "location": "Paris, France",
+      "founded": 1987
+    },
+    {
+      "id": "4d35a935-f5e0-4c5a-a755-8cb4a7efc8da",
+      "name": "Company D",
+      "industry": "Healthcare",
+      "location": "Berlin, Germany",
+      "founded": 2012
+    },
+    {
+      "id": "b48d8b70-7419-45cb-9114-d8f838fa1a5d",
+      "name": "Company E",
+      "industry": "Education",
+      "location": "Tokyo, Japan",
+      "founded": 1991
+    },
+    {
+      "id": "c812f0f4-0b0f-4c8f-9090-fdc78b6e8037",
+      "name": "Company F",
+      "industry": "Technology",
+      "location": "San Francisco, USA",
+      "founded": 2010
+    },
+    {
+      "id": "d3730b9c-b121-41f9-ae95-ff20623b6bb1",
+      "name": "Company G",
+      "industry": "Manufacturing",
+      "location": "Chicago, USA",
+      "founded": 1975
+    },
+    {
+      "id": "9e5b1268-11aa-40fc-83af-7ac44f64602e",
+      "name": "Company H",
+      "industry": "Automotive",
+      "location": "Detroit, USA",
+      "founded": 1923
+    },
+    {
+      "id": "8a8f7356-656a-485b-bd3f-df0178efcfc6",
+      "name": "Company I",
+      "industry": "Logistics",
+      "location": "Sydney, Australia",
+      "founded": 1984
+    },
+    {
+      "id": "117deebb-312e-4769-9bfc-1abf7dcb65c2",
+      "name": "Company J",
+      "industry": "Hospitality",
+      "location": "Dubai, UAE",
+      "founded": 2008
+    },
+    {
+      "id": "5b9d83ab-39b3-4f7e-b365-4f0e4dfaf1ad",
+      "name": "Company K",
+      "industry": "Technology",
+      "location": "Seoul, South Korea",
+      "founded": 1993
+    },
+    {
+      "id": "d48e7bfb-5985-43e5-87b7-7b098f781b2b",
+      "name": "Company L",
+      "industry": "Construction",
+      "location": "Mumbai, India",
+      "founded": 1969
+    },
+    {
+      "id": "384ab771-c88a-4e6c-8e0b-52c160c52ec2",
+      "name": "Company M",
+      "industry": "Energy",
+      "location": "Houston, USA",
+      "founded": 1954
+    },
+    {
+      "id": "3f66bbf1-e1e5-4af6-8230-b194a2d11a1c",
+      "name": "Company N",
+      "industry": "Telecommunications",
+      "location": "Mexico City, Mexico",
+      "founded": 2000
+    },
+    {
+      "id": "b276ba55-46b0-4b63-bb54-d5699b8ed733",
+      "name": "Company O",
+      "industry": "Pharmaceuticals",
+      "location": "Zurich, Switzerland",
+      "founded": 1972
+    },
+    {
+      "id": "cdf5b1e5-fd02-4d7b-911e-d43f04b9c5c0",
+      "name": "Company P",
+      "industry": "Food & Beverage",
+      "location": "Buenos Aires, Argentina",
+      "founded": 1989
+    },
+    {
+      "id": "a8ecaa31-5022-46ef-825b-b5e1a8d5d060",
+      "name": "Company Q",
+      "industry": "Fashion",
+      "location": "Milan, Italy",
+      "founded": 1997
+    },
+    {
+      "id": "92e6d9a1-0b87-44b7-b705-9f39fe50bbed",
+      "name": "Company R",
+      "industry": "Agriculture",
+      "location": "São Paulo, Brazil",
+      "founded": 1990
+    },
+    {
+      "id": "d6a32fd6-2907-49df-81db-fcb0fe47b914",
+      "name": "Company S",
+      "industry": "Insurance",
+      "location": "Toronto, Canada",
+      "founded": 1910
+    },
+    {
+      "id": "9f9b5a77-e5b2-49a4-8ed1-59a6bcb15477",
+      "name": "Company T",
+      "industry": "Technology",
+      "location": "Silicon Valley, USA",
+      "founded": 2015
+    },
+    {
+      "id": "fa87f178-605a-4422-9da8-f74f252cc53a",
+      "name": "Company U",
+      "industry": "Entertainment",
+      "location": "Los Angeles, USA",
+      "founded": 1920
+    },
+    {
+      "id": "40b3b9da-f95b-49f6-a3c6-6c3e4349c3ff",
+      "name": "Company V",
+      "industry": "Media",
+      "location": "New York, USA",
+      "founded": 1980
+    },
+    {
+      "id": "6721d94d-5f47-401a-a2c4-05d40e497e28",
+      "name": "Company W",
+      "industry": "Chemicals",
+      "location": "Shanghai, China",
+      "founded": 1985
+    },
+    {
+      "id": "d7498f88-c211-4a58-a07b-f5190f123ef9",
+      "name": "Company X",
+      "industry": "Mining",
+      "location": "Johannesburg, South Africa",
+      "founded": 1950
+    },
+    {
+      "id": "b5105d0d-c60e-43b9-9e8c-2434f556f2ef",
+      "name": "Company Y",
+      "industry": "Technology",
+      "location": "Tel Aviv, Israel",
+      "founded": 2018
+    },
+    {
+      "id": "426d4a4c-479f-4ae5-a834-22965b48f183",
+      "name": "Company Z",
+      "industry": "Technology",
+      "location": "Austin, USA",
+      "founded": 2007
+    },
+    {
+      "id": "25d1c0d4-b6ae-4b30-8f8c-ec489b10ff5e",
+      "name": "Company AA",
+      "industry": "Real Estate",
+      "location": "Miami, USA",
+      "founded": 2011
+    },
+    {
+      "id": "302f963f-c92f-4672-9e64-fc207a6da8c9",
+      "name": "Company AB",
+      "industry": "Marketing",
+      "location": "Vancouver, Canada",
+      "founded": 1999
+    },
+    {
+      "id": "c2f00705-c3ee-4577-b5b3-774657f8e6a3",
+      "name": "Company AC",
+      "industry": "Technology",
+      "location": "Dublin, Ireland",
+      "founded": 2019
+    },
+    {
+      "id": "9bc68b59-82c0-43bc-9173-799f9c4c09aa",
+      "name": "Company AD",
+      "industry": "Consulting",
+      "location": "Madrid, Spain",
+      "founded": 1988
+    },
+    {
+      "id": "05f19c9c-d95d-4337-bc7c-6ee19d593d77",
+      "name": "Company AE",
+      "industry": "Biotechnology",
+      "location": "Stockholm, Sweden",
+      "founded": 2010
+    },
+    {
+      "id": "c75c8f38-e7a4-4aa4-8145-0a629162e433",
+      "name": "Company AF",
+      "industry": "Aerospace",
+      "location": "Boeing Field, USA",
+      "founded": 1948
+    },
+    {
+      "id": "67a78da5-9085-41ab-8ec9-3fcd572df31d",
+      "name": "Company AG",
+      "industry": "Technology",
+      "location": "Helsinki, Finland",
+      "founded": 2020
+    },
+    {
+      "id": "c9b8b00a-81ab-4ae3-a2cc-5f5b1a59e5ff",
+      "name": "Company AH",
+      "industry": "Transportation",
+      "location": "Lisbon, Portugal",
+      "founded": 2015
+    },
+    {
+      "id": "ea3fbc6b-dcc0-459b-9d73-793d7a1e1e03",
+      "name": "Company AI",
+      "industry": "Health & Wellness",
+      "location": "Buenos Aires, Argentina",
+      "founded": 2018
+    },
+    {
+      "id": "a4d5767c-1c0b-434e-b9d1-1c6a5ecabcf7",
+      "name": "Company AJ",
+      "industry": "Retail",
+      "location": "Toronto, Canada",
+      "founded": 2001
+    },
+    {
+      "id": "2c3e77e5-1a71-4c64-85f5-f408b6508e9b",
+      "name": "Company AK",
+      "industry": "Real Estate",
+      "location": "Singapore",
+      "founded": 1997
+    },
+    {
+      "id": "f2dc22b8-e599-4c14-bd96-d50012bc9d94",
+      "name": "Company AL",
+      "industry": "Media",
+      "location": "Amsterdam, Netherlands",
+      "founded": 2004
+    },
+    {
+      "id": "81e5c4f7-292f-4324-90a5-64eb8b5c46a8",
+      "name": "Company AM",
+      "industry": "Education",
+      "location": "Brisbane, Australia",
+      "founded": 2006
+    },
+    {
+      "id": "af88b6ee-1ee1-4699-a4f0-e5b00c409a06",
+      "name": "Company AN",
+      "industry": "Technology",
+      "location": "Zurich, Switzerland",
+      "founded": 2021
+    },
+    {
+      "id": "b629c02e-39a8-4de3-b65d-576c764a3c9d",
+      "name": "Company AO",
+      "industry": "Construction",
+      "location": "Vienna, Austria",
+      "founded": 2013
+    },
+    {
+      "id": "f68832ff-4fd7-49f0-8fb6-0af292b11e58",
+      "name": "Company AP",
+      "industry": "Food & Beverage",
+      "location": "Bangkok, Thailand",
+      "founded": 2002
+    },
+    {
+      "id": "8cba3782-4e0c-4b12-b9f5-0625f13d67c2",
+      "name": "Company AQ",
+      "industry": "Hospitality",
+      "location": "Prague, Czech Republic",
+      "founded": 1994
+    },
+    {
+      "id": "5fef3e90-0cc7-4550-8d8f-c4d0b8049f69",
+      "name": "Company AR",
+      "industry": "Insurance",
+      "location": "Warsaw, Poland",
+      "founded": 1995
+    },
+    {
+      "id": "b21f6917-ecfa-4692-a569-7d34c11b7f1c",
+      "name": "Company AS",
+      "industry": "Telecommunications",
+      "location": "Kuala Lumpur, Malaysia",
+      "founded": 2014
+    },
+    {
+      "id": "f4294d6f-39bc-4539-89c6-3acb206e4a7d",
+      "name": "Company AT",
+      "industry": "Entertainment",
+      "location": "Istanbul, Turkey",
+      "founded": 2009
+    },
+    {
+      "id": "b206c54b-2044-43fc-94e0-23db5bdf5e09",
+      "name": "Company AU",
+      "industry": "Finance",
+      "location": "Bangalore, India",
+      "founded": 2000
+    },
+    {
+      "id": "b2e5b503-c1b8-4d80-8af9-4b4e2f1c45cb",
+      "name": "Company AV",
+      "industry": "Retail",
+      "location": "Krakow, Poland",
+      "founded": 2003
+    },
+    {
+      "id": "c8b1a31d-3d9f-4ef8-8730-944d148ee1b6",
+      "name": "Company AW",
+      "industry": "Healthcare",
+      "location": "Dakar, Senegal",
+      "founded": 2005
+    },
+    {
+      "id": "f4d8bcf6-b32c-46f9-a8b8-e4327aee84ed",
+      "name": "Company AX",
+      "industry": "Energy",
+      "location": "Lima, Peru",
+      "founded": 2017
+    },
+    {
+      "id": "ba3a11a5-454c-40eb-8c53-54b4bdfdc823",
+      "name": "Company AY",
+      "industry": "Chemicals",
+      "location": "Nairobi, Kenya",
+      "founded": 2016
+    },
+    {
+      "id": "08b8c803-9cc1-4375-81e4-ff1ef703aa92",
+      "name": "Company AZ",
+      "industry": "Technology",
+      "location": "Hanoi, Vietnam",
+      "founded": 2022
+    },
+    {
+      "id": "4b2e24ec-b7a4-4693-8727-bcc05e02171f",
+      "name": "Company BA",
+      "industry": "Aerospace",
+      "location": "Birmingham, UK",
+      "founded": 1996
+    },
+    {
+      "id": "c22de0d5-1e5b-4f52-8e4c-292dd00be48e",
+      "name": "Company BB",
+      "industry": "Construction",
+      "location": "Geneva, Switzerland",
+      "founded": 2021
+    },
+    {
+      "id": "764bff26-32b5-4850-a1d5-7d1721f0dc4e",
+      "name": "Company BC",
+      "industry": "Consulting",
+      "location": "Doha, Qatar",
+      "founded": 2008
+    },
+    {
+      "id": "7b18399f-6c48-4b12-9435-251d6c3e7a74",
+      "name": "Company BD",
+      "industry": "Biotechnology",
+      "location": "Copenhagen, Denmark",
+      "founded": 2011
+    }
+  ]
+}
