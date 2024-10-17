@@ -28,17 +28,16 @@ npm install
 ```
 
 
-### 3. EnvironmentVariables
+### 3. Create an .env.local file in your root directory
 ```bash
 touch .env.local
 ```
 
-### 4. Add the followibng environment variables
-# API Base URL
+### 4. Add the following environment variables to your .env.loca
+```tsx
 NEXT_PUBLIC_API_BASE_URL=http://localhost:8080
-
-# Mock database URL
 DATABASE_URL="file:./db.json"
+```
 
 ### 4. Run the app
 ```bash
