@@ -42,7 +42,7 @@ DATABASE_URL="file:./db.json"
 ### 4. Run the app
 ```bash
 npm run dev  # Start Next.js app
-npm run mock-data  # Start mock JSON server
+npm run mock-server  # Start mock JSON server
 ```
 
 ## Enjoy :)
