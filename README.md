@@ -18,8 +18,8 @@ A data table interface for managing company information with search filtering, p
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd <directory>
+git clone https://github.com/wenzie12/data-discovery-dashboard.git
+cd dashboard-app/
 ```
 
 ### 2. Install Dependencies
